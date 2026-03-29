@@ -1,0 +1,19 @@
+# Core ML & Fine-Tuning Libraries
+torch>=2.0.0
+transformers
+peft
+trl
+bitsandbytes
+accelerate
+datasets
+huggingface_hub
+
+# Data Processing & API Libraries
+groq
+python-dotenv
+tqdm
+
+# Document Loading (PDF)
+langchain-community
+langchain-text-splitters
+pypdf

@@ -1,0 +1,16 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Project Specific
+# (If using GitHub, large models and PDFs should be ignored or used with Git LFS)
+llama-sft-model/
+*.pdf
+
+# Uncomment the line below if you don't want to push datasets to GitHub
+# *.jsonl
